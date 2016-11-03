@@ -1,6 +1,6 @@
 {
-    "name": "nbobtc/bitcoind-php",
-    "homepage": "https://github.com/nbobtc/bitcoind-php",
+    "name": "oprokidnev/bitcoind-php",
+    "homepage": "https://github.com/oprokidnev/bitcoind-php",
     "type": "library",
     "description": "PHP Wrapper for a bitcoind daemon",
     "keywords": ["bitcoin", "bitcoind", "bitcoins"],
